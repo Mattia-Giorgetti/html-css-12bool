@@ -1,0 +1,14 @@
+.debug_colored {
+    border: 1px solid white;
+    background-color: #006cfa;
+    color: white;
+    text-align: center;
+    min-height: 40px;
+}
+.nested {
+    background-color: rgb(0, 225, 109);
+    border: 1px solid #006cfa;
+}
+.marg_bot {
+    margin-bottom: 10px;
+}
